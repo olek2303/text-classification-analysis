@@ -3,7 +3,7 @@
 - Corona_NLP_train/test (https://www.kaggle.com/datasets/datatattle/covid-19-nlp-text-classification)
 - SPAM text message (https://www.kaggle.com/datasets/team-ai/spam-text-message-classification)
 - clarin-pl/polemo2-official (https://huggingface.co/datasets/clarin-pl/polemo2-official)
-
+- Human Stress Prediction - (https://www.kaggle.com/datasets/kreeshrajani/human-stress-prediction)
 
 ## Źródła:
 https://github.com/ksopyla/awesome-nlp-polish
